@@ -1,0 +1,16 @@
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\计算器\calculator\calculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\计算器\calculator\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\计算器\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\计算器\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\计算器\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\计算器\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\计算器\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\计算器\calculator\calculator\obj\Debug\calculator.pdb
+D:\大学\大一下\C# 张帅\期末实验作业\180110910603陈彬捷\作业1-计算器\calculator\calculator\obj\Debug\calculator.exe
+D:\大学\大一下\C# 张帅\期末实验作业\180110910603陈彬捷\作业1-计算器\calculator\calculator\obj\Debug\calculator.pdb
+D:\大学\大一下\C# 张帅\期末实验作业\180110910603陈彬捷\作业1-计算器\calculator\calculator\bin\Debug\calculator.exe
+D:\大学\大一下\C# 张帅\期末实验作业\180110910603陈彬捷\作业1-计算器\calculator\calculator\bin\Debug\calculator.pdb
+D:\大学\大一下\C# 张帅\期末实验作业\180110910603陈彬捷\作业1-计算器\calculator\calculator\obj\Debug\ResolveAssemblyReference.cache
+D:\大学\大一下\C# 张帅\期末实验作业\180110910603陈彬捷\作业1-计算器\calculator\calculator\obj\Debug\calculator.Form1.resources
+D:\大学\大一下\C# 张帅\期末实验作业\180110910603陈彬捷\作业1-计算器\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+D:\大学\大一下\C# 张帅\期末实验作业\180110910603陈彬捷\作业1-计算器\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
