@@ -1,0 +1,12 @@
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\计时器\MyTimer\MyTimer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\计时器\MyTimer\MyTimer\obj\Debug\MyTimer.Form1.resources
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\计时器\MyTimer\MyTimer\obj\Debug\MyTimer.Properties.Resources.resources
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\计时器\MyTimer\MyTimer\obj\Debug\MyTimer.csproj.GenerateResource.Cache
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\计时器\MyTimer\MyTimer\bin\Debug\MyTimer.exe
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\计时器\MyTimer\MyTimer\bin\Debug\MyTimer.pdb
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\计时器\MyTimer\MyTimer\obj\Debug\MyTimer.exe
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\计时器\MyTimer\MyTimer\obj\Debug\MyTimer.pdb
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\计时器\MyTimer数码管\Timer 计时+倒计时 用label实现\MyTimer\obj\Debug\MyTimer.exe
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\计时器\MyTimer数码管\Timer 计时+倒计时 用label实现\MyTimer\obj\Debug\MyTimer.pdb
+D:\大学\大一下\C# 张帅\期末实验作业\180110910603陈彬捷\作业2-计时器（含数码管功能、倒计时功能）\MyTimer数码管\Timer 计时+倒计时 用label实现\MyTimer\obj\Debug\MyTimer.exe
+D:\大学\大一下\C# 张帅\期末实验作业\180110910603陈彬捷\作业2-计时器（含数码管功能、倒计时功能）\MyTimer数码管\Timer 计时+倒计时 用label实现\MyTimer\obj\Debug\MyTimer.pdb

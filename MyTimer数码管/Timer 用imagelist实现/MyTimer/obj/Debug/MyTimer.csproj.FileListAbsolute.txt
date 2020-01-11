@@ -1,0 +1,8 @@
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\计时器\MyTimer\MyTimer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\计时器\MyTimer\MyTimer\obj\Debug\MyTimer.Form1.resources
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\计时器\MyTimer\MyTimer\obj\Debug\MyTimer.Properties.Resources.resources
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\计时器\MyTimer\MyTimer\obj\Debug\MyTimer.csproj.GenerateResource.Cache
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\计时器\MyTimer\MyTimer\bin\Debug\MyTimer.exe
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\计时器\MyTimer\MyTimer\bin\Debug\MyTimer.pdb
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\计时器\MyTimer\MyTimer\obj\Debug\MyTimer.exe
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\计时器\MyTimer\MyTimer\obj\Debug\MyTimer.pdb
