@@ -1,0 +1,21 @@
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\我的画笔\MyPen\MyPen\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\我的画笔\MyPen\MyPen\obj\Debug\MyPen.FormMain.resources
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\我的画笔\MyPen\MyPen\obj\Debug\MyPen.Properties.Resources.resources
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\我的画笔\MyPen\MyPen\obj\Debug\MyPen.csproj.GenerateResource.Cache
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\我的画笔\MyPen\MyPen\bin\Debug\MyPen.exe
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\我的画笔\MyPen\MyPen\bin\Debug\MyPen.pdb
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\我的画笔\MyPen\MyPen\obj\Debug\MyPen.exe
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\我的画笔\MyPen\MyPen\obj\Debug\MyPen.pdb
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\我的画笔\MyPen\MyPen\obj\Debug\MyPen.DlgPenWidth.resources
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\我的画笔\MyPen1.4\MyPen\obj\Debug\MyPen.exe
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\我的画笔\MyPen1.4\MyPen\obj\Debug\MyPen.pdb
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\我的画笔\MyPen1.4\MyPen\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\我的画笔\MyPen1.4\MyPen\obj\Debug\MyPen.DlgPenWidth.resources
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\我的画笔\MyPen1.4\MyPen\obj\Debug\MyPen.FormMain.resources
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\我的画笔\MyPen1.4\MyPen\obj\Debug\MyPen.Properties.Resources.resources
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\我的画笔\MyPen1.4\MyPen\obj\Debug\MyPen.csproj.GenerateResource.Cache
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\我的画笔\MyPen1.4\MyPen\bin\Debug\MyPen.exe
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\我的画笔\MyPen1.4\MyPen\bin\Debug\MyPen.pdb
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\我的画笔\MyPen1.4\MyPen\obj\Debug\MyPen.DlgDrawTools.resources
+D:\大学\大一下\C# 张帅\期末实验作业\180110910603陈彬捷\作业3-我的画笔\MyPen\MyPen\obj\Debug\MyPen.exe
+D:\大学\大一下\C# 张帅\期末实验作业\180110910603陈彬捷\作业3-我的画笔\MyPen\MyPen\obj\Debug\MyPen.pdb
