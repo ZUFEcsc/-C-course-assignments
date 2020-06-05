@@ -1,0 +1,18 @@
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\中国象棋\MyChess\MyChess\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\中国象棋\MyChess\MyChess\obj\Debug\MyChess.FormMain.resources
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\中国象棋\MyChess\MyChess\obj\Debug\MyChess.Properties.Resources.resources
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\中国象棋\MyChess\MyChess\obj\Debug\MyChess.csproj.GenerateResource.Cache
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\中国象棋\MyChess\MyChess\bin\Debug\MyChess.exe
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\中国象棋\MyChess\MyChess\bin\Debug\MyChess.pdb
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\中国象棋\MyChess\MyChess\obj\Debug\MyChess.exe
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\中国象棋\MyChess\MyChess\obj\Debug\MyChess.pdb
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\中国象棋\MyChess8-11\MyChess\obj\Debug\MyChess.exe
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\中国象棋\MyChess8-11\MyChess\obj\Debug\MyChess.pdb
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\中国象棋\MyChess8-11\MyChess\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\中国象棋\MyChess8-11\MyChess\obj\Debug\MyChess.FormMain.resources
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\中国象棋\MyChess8-11\MyChess\obj\Debug\MyChess.Properties.Resources.resources
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\中国象棋\MyChess8-11\MyChess\obj\Debug\MyChess.csproj.GenerateResource.Cache
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\中国象棋\MyChess8-11\MyChess\bin\Debug\MyChess.exe
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\中国象棋\MyChess8-11\MyChess\bin\Debug\MyChess.pdb
+D:\大学\大一下\C# 张帅\期末实验作业\180110910603陈彬捷\作业4-中国象棋(单机版)\MyChess（单机版+封装）\MyChess\obj\Debug\MyChess.exe
+D:\大学\大一下\C# 张帅\期末实验作业\180110910603陈彬捷\作业4-中国象棋(单机版)\MyChess（单机版+封装）\MyChess\obj\Debug\MyChess.pdb
