@@ -1,0 +1,9 @@
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\十五子游戏\Backgammon\Backgammon\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\十五子游戏\Backgammon\Backgammon\obj\Debug\Backgammon.Properties.Resources.resources
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\十五子游戏\Backgammon\Backgammon\obj\Debug\Backgammon.csproj.GenerateResource.Cache
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\十五子游戏\Backgammon\Backgammon\bin\Debug\Backgammon.exe
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\十五子游戏\Backgammon\Backgammon\bin\Debug\Backgammon.pdb
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\十五子游戏\Backgammon\Backgammon\obj\Debug\Backgammon.exe
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\十五子游戏\Backgammon\Backgammon\obj\Debug\Backgammon.pdb
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\十五子游戏\Backgammon\Backgammon\obj\Debug\Backgammon.Introdution.resources
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\十五子游戏\Backgammon\Backgammon\obj\Debug\Backgammon.FormMain.resources
