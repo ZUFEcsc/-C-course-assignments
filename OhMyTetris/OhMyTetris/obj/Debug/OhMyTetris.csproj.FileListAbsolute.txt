@@ -1,0 +1,12 @@
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\俄罗斯方块\OhMyTetris\OhMyTetris\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\俄罗斯方块\OhMyTetris\OhMyTetris\obj\Debug\OhMyTetris.Properties.Resources.resources
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\俄罗斯方块\OhMyTetris\OhMyTetris\obj\Debug\OhMyTetris.csproj.GenerateResource.Cache
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\俄罗斯方块\OhMyTetris\OhMyTetris\bin\Debug\OhMyTetris.exe
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\俄罗斯方块\OhMyTetris\OhMyTetris\bin\Debug\OhMyTetris.pdb
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\俄罗斯方块\OhMyTetris\OhMyTetris\obj\Debug\OhMyTetris.exe
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\俄罗斯方块\OhMyTetris\OhMyTetris\obj\Debug\OhMyTetris.pdb
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\俄罗斯方块\OhMyTetris\OhMyTetris\obj\Debug\OhMyTetris.FormMain.resources
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\俄罗斯方块\OhMyTetris\OhMyTetris\bin\Debug\Microsoft.DirectX.DirectSound.dll
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\俄罗斯方块\OhMyTetris\OhMyTetris\bin\Debug\Microsoft.DirectX.dll
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\俄罗斯方块\OhMyTetris\OhMyTetris\bin\Debug\Microsoft.DirectX.DirectSound.xml
+C:\Users\陈杉\Documents\Visual Studio 2008\Projects\俄罗斯方块\OhMyTetris\OhMyTetris\bin\Debug\Microsoft.DirectX.xml
